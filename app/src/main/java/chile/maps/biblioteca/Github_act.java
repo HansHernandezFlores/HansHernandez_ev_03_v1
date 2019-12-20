@@ -12,7 +12,7 @@ public class Github_act extends AppCompatActivity {
 
     private Spinner spngh;
     private TextView tvgh;
-    private String[] precios = new String[]{"5000", "12000", "45000"};
+    private String[] precios = new String[]{"5000", "7000", "22000"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
